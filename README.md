@@ -9,6 +9,6 @@ Just download "index.html" and run it, that's it!
 
 Now go play Prodigy in just one HTML file and enjoy.
 
-If you have any questions, or concerns about this project, dm @kingmugz on Discord.
+If you have any questions, or concerns about this project, dm @adamgiggle on Discord.
 
 For more specific questions focused more around the Prodigy game itself, contact Entrapta, on [GitHub](https://github.com/entraptadoeztech/) or email her at entraptadoeztech@gmail.com
